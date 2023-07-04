@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gabe Ellis</h1>
 <h3 align="center">I am a passionate software engineer from Lexington, Kentucky. I love learning new things, problem-solving, and creating fun/new projects.</h3>
 
-- 🔭 I’m currently working on [Game Site](https://game-site-gabeellis.vercel.app/chess)
+- 🔭 I’m currently working on [Basketball Simulator](https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
 - 👯 I’m looking to collaborate **If you would like to collab, feel free to reach out!**
 
-- 🤝 I’m looking for help with [Game Site](https://game-site-gabeellis.vercel.app/chess)
+- 🤝 I’m looking for help with [Basketball Simulato](https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
 
 - 💬 Ask me about **Programming questions, chess, video games, science, movies, or really anything.**
 
