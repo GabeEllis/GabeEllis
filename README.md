@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate **If you would like to collab, feel free to reach out!**
 
-- 🤝 I’m looking for help with [Basketball Simulato](https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
+- 🤝 I’m looking for help with [Basketball Simulator](https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
 
 - 💬 Ask me about **Programming questions, chess, video games, science, movies, or really anything.**
 
