@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gabe Ellis</h1>
 <h3 align="center">I am a passionate software engineer from Lexington, Kentucky. I love learning new things, problem-solving, and creating fun/new projects.</h3>
 
-- 🔭 I’m currently working on [Basketball Simulator](https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
+- 🔭 I’m currently working on [Basketball Simulator] (https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
 
 - 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate **If you would like to collab, feel free to reach out!**
 
-- 🤝 I’m looking for help with [Basketball Simulator](https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
+- 🤝 I’m looking for help with [Basketball Simulator] (https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
 
 - 💬 Ask me about **Programming questions, chess, video games, science, movies, or really anything.**
 
 - 📫 How to reach me **gabeellis830@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rOvqFMWAt8YonwR4ip5mG-nilNpkLsPb/view?usp=sharing](https://drive.google.com/file/d/1rOvqFMWAt8YonwR4ip5mG-nilNpkLsPb/view?usp=sharing)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1JmHs3g67l9bRazD6WgMs-EhG0fCpWdNdcLTslw2XhR4/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
