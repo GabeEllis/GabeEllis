@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Basketball Simulator] (https://game-site-gabeellis.vercel.app/chess](https://github.com/GabeEllis/basketball-simulator-client)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate **If you would like to collab, feel free to reach out!**
 
